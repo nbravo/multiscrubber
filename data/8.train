@@ -1,0 +1,83 @@
+<PHI TYPE="ID">070253172</PHI>
+<PHI TYPE="HOSPITAL">CMC</PHI>
+<PHI TYPE="ID">43378653</PHI>
+<PHI TYPE="DATE">3/25/2002</PHI> 12:00:00 AM
+NSCLCA , metastatic to spine and brain
+DIS
+Admission Date :
+<PHI TYPE="DATE">03/25/2002</PHI>
+Report Status :
+Discharge Date :
+<PHI TYPE="DATE">03/29/2002</PHI>
+****** DISCHARGE ORDERS ******
+<PHI TYPE="PATIENT">MERVBENWIERST , BIE S.</PHI> <PHI TYPE="ID">056-08-55-3V96</PHI>
+Room :
+<PHI TYPE="HOSPITAL">1D-419</PHI>
+Service :
+HEM
+DISCHARGE PATIENT ON :
+<PHI TYPE="DATE">03/29/02</PHI> AT 02:00 PM
+CONTINGENT UPON HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<PHI TYPE="DOCTOR">XELLCAUGH , REYAZA RO</PHI> , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+DULCOLAX ( BISACODYL ) 10 MG PR QD
+HOLD IF :
+if bm already .
+DECADRON ( DEXAMETHASONE ) 6 MG PO Q6H COLACE ( DOCUSATE SODIUM ) 100 MG PO BID LACTULOSE 30 MILLILITERS PO QID MAALOX PLUS EX. STR .
+15 milliliters PO Q6H PRN Indigestion MOM ( MAGNESIUM HYDROXIDE ) 30 milliliters PO QD PRN Constipation DILANTIN ( PHENYTOIN ) 400 MG PO QD Starting Today ( <PHI TYPE="DATE">03/29</PHI> )
+Food / Drug Interaction Instruction
+If on tube feeds , please cycle ( hold 1 hr before to 2 hr after ) SENNA TABLETS 2 TAB PO BID MSIR ( MORPHINE IMMED. RELEASE ) 30 MG PO Q4H MS CONTIN ( MORPHINE SUSTAINED RELEASE ) 260 MG PO Q8H
+Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+XRT , Friday , 10am  <PHI TYPE="DATE">05/22/02</PHI> scheduled , Dr. <PHI TYPE="DOCTOR">Xellcaugh</PHI> , call next week , No Known Allergies
+ADMIT DIAGNOSIS :
+metastatic spine dz
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) NSCLCA , metastatic to spine and brain
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay htn , diabetes , gerd , h / o colonic polyps removal
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) MRI ( <PHI TYPE="DATE">3/27</PHI> ) XRT Simulation ( <PHI TYPE="DATE">3/27</PHI> ) XRT Rx ( <PHI TYPE="DATE">3/28</PHI> )
+BRIEF RESUME OF HOSPITAL COURSE :
+57 yo with NSCLCa with back pain and headache .
+Transferred from neurosurgery for further mgmt with palliative XRT to head .
+Pt initially presented with cough and hemoptysis to his primary MD .
+On CXR he was found to have a left upper lobe mass .
+He subsequently underwent bronchoscopy and bx revealed non-small cell adeno CA .
+STaging revealed multiple bony mets including skull , spine with MRI revealing mild compression of vertebral bodies at T9 , T11 , T12 .
+T9 with encroachment of spinal cord underwent urgent XRT with no response so he was referred to neurosurgery for intervention .
+MRI-&gt; rt. frontal , left temporal , rt cerebellar hemorrhagic enhancing lesions - most likely extensive intracranial mets-- T-spine surgery considered second priority and plan to radiate cranially immediately with steroid and anticonvulsant .
+He underwent simulation on <PHI TYPE="DATE">3/28</PHI> to whole brain and T3-T7 fields with plan for rx to both sites over ~ 2.5 weeks .
+Over the past 2 weeks he has has noted frontal and occipital HA with left eyelid swelling , ptosis , and denies CP , SOB , no sig. BM in past 5 days , small amt of stool after suppository .
+Neuro--He was Dilantin loaded and a level should be checked on <PHI TYPE="DATE">3/31</PHI> .
+He is to continue Decadron .
+Onc--He is to receive XRT on <PHI TYPE="DATE">3/31</PHI> and daily during that week .
+Pain control--Currently under control with MS contin and MSIR prn. regimen .
+Follow HA , LBP. ENDO--Glucose control monitored while on decadron with SSRI coverage .
+Will check HgbA1C prior to discharge .
+GI--Aggressive bowel regimen to continue at home .
+Pt is Full Code .
+ADDITIONAL COMMENTS :
+Please call Dr. <PHI TYPE="DOCTOR">Xellcaugh</PHI> with worsening headache or back pain , or any other concern .
+Keep appointment as scheduled with XRT .
+Please check fingerstick once a day , and record , call MD if greater than 200 .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+XRT on Mon .
+<PHI TYPE="DATE">3/31/02</PHI> .
+Dr <PHI TYPE="DOCTOR">Xellcaugh</PHI> , call his office next week
+No dictated summary
+ENTERED BY :
+<PHI TYPE="DOCTOR">SHUFFMAD , THI I.</PHI> , M.D. ( <PHI TYPE="ID">KX45</PHI> )
+<PHI TYPE="DATE">03/29/02</PHI> 03:43 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]

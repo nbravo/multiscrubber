@@ -1,0 +1,63 @@
+<PHI TYPE="ID">722228618</PHI>
+<PHI TYPE="HOSPITAL">HLGMC</PHI>
+<PHI TYPE="ID">6932882</PHI>
+<PHI TYPE="ID">058752</PHI>
+<PHI TYPE="DATE">01/23/2000</PHI> 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY NAME :
+<PHI TYPE="PATIENT">STIRESPARD , ACEE</PHI>
+UNIT NUMBER :
+<PHI TYPE="ID">351-84-79</PHI>
+ADMISSION DATE :
+<PHI TYPE="DATE">01/23/2000</PHI>
+DISCHARGE DATE :
+<PHI TYPE="DATE">02/01/2000</PHI>
+PRINCIPAL DIAGNOSIS :
+Hypercalcemia .
+ASSOCIATED DIAGNOSES :
+1. Metastatic breast cancer .
+2. Bone metastases .
+3. Deep venous thrombosis of the left lower extremity .
+4. Nausea , vomiting , dehydration .
+PRINCIPAL PROCEDURE :
+Intravenous chemotherapy with Taxol on <PHI TYPE="DATE">01/30/2000</PHI> .
+DISCHARGE MEDICATIONS :
+Compazine 10 mg PO q4-6h p.r.n. nausea Ativan 1 mg sublingually q4h nausea , anxiety .
+Colace 100 mg PO t.i.d. Senna tablets two tablets PO b.i.d. Arimidex 1 mg PO q.d. Fentanyl patch 50 mcg per hour replace every 72 hours Dulcolax suppository 10 mg q.d. p.r.n. constipation Fragmin 8000 units subcutaneously b.i.d. Hydromorphone 2-4 mg PO q3-4h p.r.n. pain Warfarin 5 mg PO q.d.
+Nursing services with evaluation and treatment .
+Physical therapy services , evaluation and treatment .
+Pro-time with INR on <PHI TYPE="DATE">02/03/2000</PHI> with the report faxed to <PHI TYPE="PHONE">008-653-3263</PHI> , and VNA administration of Fragmin subcutaneously b.i.d.
+HISTORY OF PRESENT ILLNESS :
+Ms. <PHI TYPE="PATIENT">Counts</PHI> has known metastatic breast cancer and has been on treatment with Fareston and Aredia .
+On the day she was seen for her regular office evaluation and treatment , she was noted to be very slightly confused , nauseated , vomiting , and dehydrated .
+Laboratory studies were obtained which showed that she was hypercalcemic and mildly azotemic .
+Her calcium was 16.6 with an albumin of 2.5 and her creatinine was 2.6 .
+She was admitted to the hospital and given intravenous Saline and then Lasix .
+She was also treated with Calcitonin .
+During this hospitalization with hydration and diuresis , her calcium fell to normal levels and her renal function corrected to normal .
+It was felt that the cause of her hypercalcemia is related to progression of metastatic breast cancer and possibly as a flare to Fareston .
+The Fareston was discontinued , Lupron 7.5 mg monthly was initiated and Arimidex 1 mg PO q.d. was initiated .
+She was able to tolerate these medicines quite well .
+In addition , we started her on Taxol 80 mg per meter square with the first dose administered on <PHI TYPE="DATE">01/30/2000</PHI> and to be continued as an outpatient .
+She complained of some pain in her left lower extremity .
+Deep venous thrombosis was shown by color flow Doppler and she was started on Fragmin and Coumadin during this hospitalization .
+Fragmin will be continued as an outpatient until the Coumadin dose is established and then this can be discontinued .
+The patient was discharged home with nursing care and will be followed by Dr. <PHI TYPE="DOCTOR">Fyfesaul</PHI> with her first appointment on <PHI TYPE="DATE">02/06/2000</PHI> .
+We will continue her on treatment with Taxol .
+Lupron and Arimidex were continued .
+<PHI TYPE="DOCTOR">LENCHERMOI DO FYFESAUL</PHI> , MD ??
+Electronically Signed <PHI TYPE="DOCTOR">LENCHERMOI D TA FYFESAUL</PHI> , M.D.
+<PHI TYPE="DATE">02/27/2000</PHI> 08:32_____________________________ ??
+TR :
+<PHI TYPE="DOCTOR">gx</PHI>
+DD :
+<PHI TYPE="DATE">02/01/2000</PHI>
+TD :
+<PHI TYPE="DATE">02/06/2000</PHI> 9:37
+Acc :
+<PHI TYPE="DOCTOR">LENCHERMOI D TA FYFESAUL</PHI> , M.D.
+[ report_end ]

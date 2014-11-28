@@ -1,0 +1,59 @@
+<PHI TYPE="ID">164312247</PHI>
+<PHI TYPE="HOSPITAL">NVH</PHI>
+<PHI TYPE="ID">47624330</PHI>
+<PHI TYPE="DATE">1/19/2002</PHI> 12:00:00 AM
+Sepsis , myocardial infarction , ARDS , pneumonia
+DIS
+Admission Date :
+<PHI TYPE="DATE">01/19/2002</PHI>
+Report Status :
+Discharge Date :
+<PHI TYPE="DATE">01/20/2002</PHI>
+****** DISCHARGE ORDERS
+<PHI TYPE="DOCTOR">TROSPROB , STYEES</PHI>
+<PHI TYPE="ID">650-29-95-3E45</PHI>
+Room :
+<PHI TYPE="HOSPITAL">9V-851</PHI>
+Service :
+PUL
+DISCHARGE PATIENT ON :
+<PHI TYPE="DATE">01/20/02</PHI> AT 03:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<PHI TYPE="DOCTOR">GLOMOBESAP , BAMJET ELLDAN</PHI> , M.D.
+CODE STATUS :
+Other-Expired .
+DISPOSITION :
+Expired
+DISCHARGE MEDICATIONS :
+RETURN TO WORK :
+Not Applicable
+ALLERGY :
+Penicillins
+ADMIT DIAGNOSIS :
+Sepsis , ARDS , Pneumonia
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Sepsis , myocardial infarction , ARDS , pneumonia
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM2 , s / p splenectomy , depression
+OPERATIONS AND PROCEDURES :
+None .
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) None .
+BRIEF RESUME OF HOSPITAL COURSE :
+Patient received as transfer from outside hospital .
+Patient on vent , febrile , hypotensive .
+Developed requirement for multiple pressors , then arrhythmias .
+Full code carried out .
+Despite extraordinary measures , stable sinus rhythm could not be restored .
+Please see written medical record for complete report .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Expired
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<PHI TYPE="DOCTOR">NELLFYFE , SHATAYE I</PHI> , M.D. , PH.D. ( <PHI TYPE="ID">IY150</PHI> )
+<PHI TYPE="DATE">01/20/02</PHI> 03:35 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]

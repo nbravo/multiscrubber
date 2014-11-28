@@ -1,0 +1,109 @@
+<PHI TYPE="ID">715578964</PHI>
+<PHI TYPE="HOSPITAL">HLGMC</PHI>
+<PHI TYPE="ID">6341149</PHI>
+<PHI TYPE="ID">74405/1h96</PHI>
+<PHI TYPE="DATE">04/25/1992</PHI> 12:00:00 AM
+LYTIC LESION , LEFT FEMORAL NECK .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+<PHI TYPE="DATE">04-25-92</PHI>
+DISCHARGE DATE :
+<PHI TYPE="DATE">05-02-92</PHI>
+PRINCIPAL DIAGNOSIS :
+Lytic lesion , left femoral neck .
+ASSOCIATED DIAGNOSIS :
+Metastatic adenocarcinoma .
+SPECIAL PROCEDURES AND OPERATIONS :
+<PHI TYPE="DATE">04/27/92</PHI> :
+Incisional biopsy , left hip ; bipolar hemiarthroplasty insertion .
+HISTORY OF PRESENT ILLNESS :
+Ms. <PHI TYPE="PATIENT">Nertland</PHI> is a 51 year old , otherwise healthy white female who presented to her local doctor with left hip pain and was found on x-ray to have a lytic lesion in the left femoral neck .
+A bone scan was done and no other lesions were noted .
+A chest x-ray revealed a 1.5 cm right middle lobe lung lesion .
+She was referred to Dr. <PHI TYPE="DOCTOR">Stonge</PHI> for evaluation .
+A chest CT confirmed the lesion in the right middle lobe as well as multipletiny granulomata which were benign-appearing .
+She was admitted for incisional biopsy and resection of her femoral lesion , a same-day admit .
+PAST SURGICAL HISTORY :
+Significant for total abdominal hysterectomy , 1971 ; appendectomy , 1971 ; D and C .
+MEDICATIONS ON ADMISSION :
+Premarin .
+ALLERGIES :
+Penicillin .
+FAMILY HISTORY :
+Positive for her mother with breast cancer , father leukemia , an aunt with bone cancer .
+SOCIAL HISTORY :
+She is married , lives in <PHI TYPE="LOCATION">Wyoming</PHI> , and is very involved with her church and prayer groups .
+She has a Canadian beagle and a supportive family .
+35 pack / year history of tobacco .
+Social alcohol , no drugs .
+REVIEW OF SYSTEMS :
+She has no respiratory complaints and no other musculoskeletal discomfort .
+She is negative for weight loss .
+Yearly mammogram is due .
+PHYSICAL EXAMINATION :
+She is a thin , otherwise healthy white female in no apparent distress .
+HEENT :
+Negative .
+Neck :
+No lymphadenopathy .
+Chest :
+Clear to auscultation .
+Breasts :
+No masses .
+Cardiac :
+Regular rate without murmur , rub or gallop .
+Abdomen :
+Benign without mass or organomegaly .
+Extremities :
+Full range of motion in all extremities except the left hip , where she has limited abduction , adduction , internal rotation and external rotation and flexion from 5-120 degrees .
+Distal PT pulses are 2+ palpable and equal bilaterally .
+Motor exam 5:5 throughout all major muscle groups .
+Sensory exam is intact to light touch and pinprick .
+HOSPITAL COURSE :
+The patient was admitted with suspected metastatic lung cancer to the left proximal femur .
+She underwent chest and abdominal CT .
+The chest CT revealed a 1.5 cm nodule in the right middle lobe , consistent with neoplastic disease .
+CT was carried out to the level of the adrenals and kidneys , which appeared normal .
+She underwent an open biopsy and bipolar hemiarthroplasty on <PHI TYPE="DATE">04/27</PHI> without complication .
+The frozen section revealed adenocarcinoma with characteristics most likely attributed to lung rather than the GI tract for primary site , based on the frozen section .
+Final pathology was pending at the time of discharge .
+She did well and progressed with physical therapy and was able to do stairs with crutches , ambulating with a walker by postoperative day # 5 .
+She was seen by Dr. <PHI TYPE="DOCTOR">Breunspeelm</PHI> from Oncology , who felt that most likely it was metastatic lung cancer to the bone ; however , breast cancer remains a possibility .
+He also noted that if it is metastatic breast cancer it is a more treatable condition .
+He recommended that we check the ER status of the pathology , which we plan to do , and get a mammogram .
+He also recommended considering radiotherapy to the lung lesion .
+He also recommended that she be switched from Premarin to tamoxifen .
+She also receivd an Occupational Therapy consultation .
+All chemotherapy options will be discussed at sarcoma conference , as will all of the above .
+Her case will be discussed at the <PHI TYPE="HOSPITAL">Heaonboburg Linpack Grant Medical Center</PHI> sarcoma conference on <PHI TYPE="DATE">05/05/92</PHI> , at which time the radiation therapists , oncologists , pathologists , and orthopedic surgeons will present the case and discuss all options .
+A letter will be sent regarding the recommendations .
+The plan is for her to betreated at home by her local doctors .
+She was sent home with a raised toilet seat and a transfer tub bench .
+MEDICATIONS ON DISCHARGE :
+Coumadin for six weeks after surgery , 2 mg q.d.
+DISPOSITION :
+Her staples can be taken out in 2-3 weeks after the surgery by her local doctor .
+A letter will be sent following the sarcoma conference to her local doctors regarding our recommendations .
+She was discharged home .
+Plans are for followup by her local doctor , to keep the PT between 14-16 .
+She received 2.5 mg of Coumadin on <PHI TYPE="DATE">04/30</PHI> for a PT of 13.5 and 1 mg on <PHI TYPE="DATE">05/01</PHI> for a PT of 14.5 .
+Prior to that she had been given 5 mg postoperatively and bumped to 18.7 .
+She needs to have a mammogram in <PHI TYPE="LOCATION">Usyork</PHI> and followup with her local doctor there .
+<PHI TYPE="DOCTOR">NIE THREATSJESCDREPS</PHI> , M.D.
+DICTATING FOR :
+<PHI TYPE="DOCTOR">SHAA STONGE</PHI> , M .D.
+TR :
+<PHI TYPE="DOCTOR">yb / bmot</PHI>
+DD :
+<PHI TYPE="DATE">05-02-92</PHI>
+TD :
+<PHI TYPE="DATE">05/03/92</PHI>
+CC :
+<PHI TYPE="DOCTOR">LENNI BREUTZOLN</PHI> , M.D.
+<PHI TYPE="DOCTOR">CHPO JESCOBEA</PHI> , M.D.
+DR. <PHI TYPE="DOCTOR">ZUKSUMSTREUWIERST</PHI> , ORTHOPEDIC SURGERY , <PHI TYPE="LOCATION">Vulasa</PHI>
+<PHI TYPE="DOCTOR">CA SHUFF</PHI> M.D. , <PHI TYPE="LOCATION">Andathens Tihou Saintan</PHI>
+[ report_end ]

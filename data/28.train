@@ -1,0 +1,95 @@
+<PHI TYPE="ID">982404827</PHI>
+<PHI TYPE="HOSPITAL">CMC</PHI>
+<PHI TYPE="ID">75036391</PHI>
+<PHI TYPE="DATE">4/10/1990</PHI> 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+<PHI TYPE="DATE">04/10/1990</PHI>
+Report Status :
+Unsigned
+Discharge Date :
+<PHI TYPE="DATE">04/15/1990</PHI>
+PRINCIPAL DIAGNOSIS ON DISCHARGE :
+CORONARY ARTERY DISEASE .
+HISTORY OF PRESENT ILLNESS :
+This is a 73 year old white female with a history of pancreatic cancer treated with 5-FU and a vague history of chest pain , admitted with EKG changes of unclear duration , consistent with an anterior wall myocardial infarction .
+In <PHI TYPE="DATE">March</PHI> of 1989 , she presented with painless jaundice , and a workup included pancreatic cancer .
+She underwent a Whipple procedure and a cholecystectomy .
+Four months prior to admission , she had occasional band like chest pain across her entire chest .
+In <PHI TYPE="DATE">January</PHI> of 1989 , she was begun on 5-FU for five days of treatment followed by three weeks of no treatment .
+Since then , she has had occasional lower sternal chest pain when lying on her side , reproducible by palpation .
+Two weeks prior to admission , she had a presyncopal episode but did not lose consciousness .
+There were no other symptoms .
+One day prior to admission , she was seen at the <PHI TYPE="HOSPITAL">Dagreat Health</PHI> for 5-FU , her third cycle .
+She complained of chest pain and back pain , and an EKG was obtained which showed new Q &apos;s in V1-V3 , and T-wave inversions in V1-V5 , consistent with an anterior septal myocardial infarction .
+She was reviewed by the cardiologists and was admitted for further evaluation of her myocardial infarction .
+CARDIAC RISK FACTORS :
+Include smoking and increased cholesterol .
+There is no diabetes , hypertension , or family history .
+PAST MEDICAL HISTORY :
+Includes (1) pancreatic cancer , status post a Whipple procedure , on 5-FU .
+(2) Status post a cholecystectomy , appendectomy , and hysterectomy .
+(3) Fibrocystic breast disease .
+MEDICATIONS ON ADMISSION :
+Include 5-FU and Percocet for pain , Zantac , and Simethicone .
+She has no known drug allergies .
+She smoked up until ten years ago .
+She does not drink .
+PHYSICAL EXAMINATION :
+She is an elderly white female in no apparent distress with a temperature of 97.6 , blood pressure 122/70 , heart rate of 72 , and a respiratory rate of 20 .
+Her physical examination is notable for an essentially entirely normal physical examination .
+LABORATORY EXAMINATION :
+On admission , includes a white blood cell count of 5.6 , hematocrit 37.4 , platelets 312 .
+Her electrolytes were within normal limits .
+The CK was 89 .
+The urinalysis showed 5-10 white blood cells .
+There were two red blood cells .
+The EKG showed a normal sinus rhythm at a rate of 75 , axis -30 degrees , Q &apos;s in V1-V3 , T-wave inversions in V1-V5 , new in comparison to <PHI TYPE="DATE">June</PHI> of 1985 .
+The chest x-ray showed a slightly increased cardiac size .
+HOSPITAL COURSE :
+The patient was admitted to the <PHI TYPE="HOSPITAL">Dagreat Health</PHI> Service where she ruled out for a myocardial infarction by CK &apos;s and LDH &apos;s .
+However , her EKG &apos;s did progress to T-wave inversions in V1-V6 , and it was felt that the patient most likely had at some point had a myocardial infarction .
+An echocardiogram was done which showed apical septal akinesis , but with well preserved systolic function .
+The patient was started on Ecotrin and a beta blocker as well as Isordil and Diltiazem for the possibility of 5-FU induced vasal spasm .
+Her medicines could not be increased beyond low doses secondary to a low systolic blood pressure .
+Just prior to discharge , she underwent an exercise tolerance test with a modified Bruce protocol where she went seven minutes and seventeen seconds , and stopped secondary to fatigue .
+She did not have any chest pain or EKG changes , however , hermaximal heart rate was 71 , and her blood pressure was 110/60 .
+It was felt by the cardiologist on the case that this was more exercise than she usually did at home , and she was comfortable with the current medical regimen .
+PROBLEM # 2 :
+PANCREATIC CANCER .
+The patient will be continued on her 5-FU as an outpatient , to be followed by Dr. <PHI TYPE="DOCTOR">Liermfelsbelb</PHI> .
+Lumbosacral spines done during the admission did not show any change from x-rays done previously .
+PROBLEM # 3 :
+HISTORY OF DIZZINESS .
+The patient complained of some dizziness and had a presyncopal episode prior to admission , however , the patient felt that her dizziness was unchanged from the dizziness that she had for several years .
+She will be followed up by Dr. <PHI TYPE="DOCTOR">Liermfelsbelb</PHI> .
+PROBLEM # 4 :
+ANEMIA .
+The patient had an anemia on admission .
+She had normal iron and TIBC .
+Reticulocyte count is pending at the time of this dictation .
+I suspect that this is anemia of chronic disease , but could not rule out gastrointestinal blood loss , although she remained guaiac negative .
+PROBLEM # 5 :
+PYURIA .
+The patient 8-10 white blood cells in the urine on admission , and the urine culture was no growth so far at the time of discharge .
+DISPOSITION :
+The patient is being discharged in stable condition , and is to be followed up with Dr. <PHI TYPE="DOCTOR">Liermfelsbelb</PHI> .
+MEDICATIONS ON DISCHARGE :
+Include Pepcid 20 mg b.i.d. , Lopressor 25 mg b.i.d. , Diltiazem 30 mg t.i.d. , Isordil 10 mg t.i.d. , and Ecotrin one tablet p.o. q.d.
+She should arrange to be followed up by Dr. <PHI TYPE="DOCTOR">Liermfelsbelb</PHI> .
+Her diet is a low cholesterol diet .
+________________________________ <PHI TYPE="ID">IU058/5246</PHI>
+<PHI TYPE="DOCTOR">STISIE PAP</PHI> , M.D. <PHI TYPE="ID">KT2</PHI>
+D :
+<PHI TYPE="DATE">04/15/90</PHI>
+Batch :
+<PHI TYPE="ID">6246</PHI>
+Report :
+<PHI TYPE="ID">K6950Y95</PHI>
+T :
+<PHI TYPE="DATE">04/16/90</PHI>
+Dictated By :
+<PHI TYPE="DOCTOR">LENTNY M. FARSTNAPPSSHEE</PHI> , M.D. <PHI TYPE="ID">CT20</PHI>
+[ report_end ]

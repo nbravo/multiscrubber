@@ -1,0 +1,13 @@
+2 way Word Level Confusion Matrix
+none phi
+273343	88	none
+411	17098	phi
+
+
+X: MACHINE LABEL    Y: GOLD STANDARD LABEL
+
+F-measures for all data
+NONE	:	precision =	0.99849865207449	recall =	0.999678163778065	f-measure =	0.999088059796961
+PHI	:	precision =	0.994879553124636	recall =	0.976526357873094	f-measure =	0.985617524138925
+
+

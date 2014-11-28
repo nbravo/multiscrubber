@@ -1,0 +1,50 @@
+<PHI TYPE="ID">188543380</PHI>
+<PHI TYPE="HOSPITAL">NVH</PHI>
+<PHI TYPE="ID">24217709</PHI>
+<PHI TYPE="DATE">06/07/2000</PHI> 12:00:00 AM
+CHRONIC MYELOGENOUS LEUKEMIA
+Signed
+DIS
+Admission Date :
+<PHI TYPE="DATE">06/07/2000</PHI>
+Report Status :
+Signed
+Discharge Date :
+<PHI TYPE="DATE">07/02/2000</PHI>
+PRINCIPAL DIAGNOSIS :
+CML .
+OTHER DIAGNOSES :
+1. STATUS POST BONE MARROW TRANSPLANT .
+2. INTRAPARENCHYMAL BLEED .
+HISTORY OF PRESENT ILLNESS :
+Mr. <PHI TYPE="PATIENT">Larsen</PHI> was a 50-year-old salesman who in <PHI TYPE="DATE">12/26</PHI> was noted to have an elevated platelet count of 778,000 .
+He was found to have CML .
+He was admitted on <PHI TYPE="DATE">06/07/00</PHI> for a matched , unrelated donor bone marrow transplant .
+PHYSICAL EXAMINATION :
+Unremarkable .
+LABORATORY DATA :
+White blood cell count of 24.409 and platelets of 956,000 .
+HOSPITAL COURSE :
+The patient received his bone marrow transplant on <PHI TYPE="DATE">06/12/00</PHI> .
+His course was then complicated by fevers and neutropenia which were treated with antibiotics and a diffuse erythroderm felt to be a drug reaction .
+On <PHI TYPE="DATE">06/24/00</PHI> the patient was found to have pulmonary infiltrates and some hemoptysis .
+A bronchoscopy was done and there was blood found in the upper airways but no evidence of blood in alveoli so it was not felt to be DAH .
+On <PHI TYPE="DATE">06/26/00</PHI> due to agitation , change in mental status and increased respiratory distress , the patient was intubated .
+It was felt at that time that the changing mental status and respiratory distress might be due to a combination of medication and worsening mucositis .
+Although the patient &apos;s pain and sedation meds were adjusted he continued to be agitated and there was difficulty weaning him off the vent .
+Because of this continued agitation , a head CT was performed on <PHI TYPE="DATE">07/01/00</PHI> and it revealed an intraparenchymal hemorrhage .
+Neurosurgery was consulted but due to the severity of the bleed surgery was not considered an option .
+The patient gradually lost brain systolic ejection murmur function and was pronounced dead on <PHI TYPE="DATE">07/02/00</PHI> .
+Dictated By :
+<PHI TYPE="DOCTOR">LAYMIE LARSEN</PHI> , M.D. <PHI TYPE="ID">EM08</PHI>
+Attending :
+<PHI TYPE="DOCTOR">ANA V. A</PHI> , M.D. <PHI TYPE="ID">ZM0 LB414/6537</PHI>
+Batch :
+<PHI TYPE="ID">67043</PHI>
+Index No.
+<PHI TYPE="ID">EZCDQ560N8</PHI>
+D :
+<PHI TYPE="DATE">07/19/00</PHI>
+T :
+<PHI TYPE="DATE">07/20/00</PHI>
+[ report_end ]

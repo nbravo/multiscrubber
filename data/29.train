@@ -1,0 +1,104 @@
+<PHI TYPE="ID">035975288</PHI>
+<PHI TYPE="HOSPITAL">CMC</PHI>
+<PHI TYPE="ID">95199917</PHI>
+<PHI TYPE="DATE">2/11/1990</PHI> 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+<PHI TYPE="DATE">02/11/1990</PHI>
+Report Status :
+Unsigned
+Discharge Date :
+<PHI TYPE="DATE">02/24/1990</PHI>
+CHIEF COMPLAINT :
+Cardiogenic shock .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 63 year old white male with a family history of myocardial infarction and narcotic abuse with a large cell Pancoasttumor in cardiogenic shock after an anterior wall myocardial infarction .
+Three weeks prior to admission , he noticed substernal chest pain and shortness of breath .
+He did not have any arrest .
+Two days prior to admission , he was seen by his local M.D. for the above symptoms .
+19 days prior to admission , he was found to have a mass in the right upper lung on chest x-ray .
+Nine days prior to admission , a CT and biopsy showed a large cell cancer .
+Four days prior to admission , a bone scan showed right lateral rib positive .
+Two days prior to admission to <PHI TYPE="HOSPITAL">Camweissallcoa Medical Center</PHI> , he developed 3/6 substernal chest pain which lasted 20-30 minutes .
+He had shortness of breath .
+He had nausea and diaphoresis .
+He went to <PHI TYPE="HOSPITAL">Ryosentlourdes Hospital</PHI> , where he ruled in with EKGs and CPKs .
+He had a new right bundle and marked ST changes .
+PAST HISTORY :
+Chronic obstructive pulmonary disease with &quot; marginal PFTs &quot; ; alcohol abuse ; skin graft after a parachute failed to open .
+MEDICATIONS ON ADMISSION :
+None .
+ALLERGIES :
+Unclear .
+PHYSICAL EXAMINATION :
+Blood pressure 86/62 ; pulse 124 ; respiratory rate 24 .
+The HEENT exam was benign .
+The neck was supple ; carotids were without bruits .
+The chest exam revealed crackles .
+The cardiac exam revealed tachycardia and very distant sounds .
+The abdominal exam revealed bowel sounds present .
+LABORATORY EXAMINATION :
+Potassium 3.3 ; creatinine 1.5 ; hematocrit 38.0 ; white count 65,000 ; platelets 445,000 .
+The chest x-ray showed the right upper lung mass .
+A Swan showed a PA of 40/21 , a wedge of 17 , cardiac output 3.8 and index 2.3 .
+He was on 2 mcg of dopamine .
+HOSPITAL COURSE :
+The patient was admitted to the ICU and was fully monitored with an A-line and Swan .
+He was taken to cardiac cath where he was found to have a total occlusion of his LAD after his first diagonal .
+His circumflex had a 60% obstruction prior to the obtuse marginal branch with a 60% stenosis of the obtuse marginal branch .
+The obtuse marginal second branch was subtotally occluded .
+The RCA had an 80% stenosis in its mid portion and 40% distal obstruction .
+An intra-aortic balloon pump was placed .
+It was considered that too much time had elapsed since his infarction and nothing was to be gained by revascularizing this infarct zone .
+He was then stabilized medically in preparation for surgery .
+He did eventually then go to the operating room on <PHI TYPE="DATE">2/14/90</PHI> , at which time he had an emergency CABG times three with asaphenous vein graft to the obtuse marginal and one onto the PDA .
+The left internal mammary artery went onto the LAD .
+He was transferred to the CICU postop , where he had his balloon removed after being stabilized .
+He had his dobutamine and dopamine weaned off .
+He was extubated without complications and had his chest tubes removed in a standard fashion .
+He was diuresed down to his preop weight .
+He then was up ambulating with physical therapy but very slowly , and he was quite weak .
+Hematology was asked to consult with the patient .
+He was felt to have a leukomoid reaction with his white count postop of around 90,000 .
+This is currently around 30,000 to 40,000 .
+Oncology and thoracic surgery were consulted .
+He will be followed up the week after discharge to see Dr. <PHI TYPE="DOCTOR">Right</PHI> .
+Radiation therapy was consulted , and it was felt that radiation therapy may be the most immediate treatment of the tumor .
+He had a bone scan which showed positive uptake in the right first rib but was otherwise negative .
+A head CT was negative .
+DISPOSITION :
+The patient was discharged home in stable condition with <PHI TYPE="HOSPITAL">CMC</PHI> and physical therapy .
+MEDICATIONS ON DISCHARGE :
+Digoxin 0.25 mg p.o. daily ; Ecotrin one tab p.o. daily ; captopril 12.5 mg p.o. t.i.d. ; Percocet 1-2 tabs p.o. q4-6h p.r.n. pain .
+FOLLOW UP will be with Dr. <PHI TYPE="DOCTOR">Neighroblin</PHI> in 4-6 weeks and by cardiology in two weeks .
+Dr. <PHI TYPE="DOCTOR">Right</PHI> will see him in one week .
+Radiation therapy will see him as well .
+DISCHARGE DIAGNOSES :
+1. CARDIOGENIC SHOCK .
+2. CORONARY ARTERY DISEASE , STATUS POST AN ANTEROSEPTAL MYOCARDIAL INFARCTION .
+3. PANCOAST TUMOR .
+4. LEUKOMOID REACTION .
+OPERATIONS / PROCEDURES :
+CABG TIMES THREE WITH LIMA .
+CARDIAC CATHETERIZATION .
+BONE SCAN .
+HEAD CT SCAN .
+CHEST CT SCAN .
+INTRA-AORTIC BALLOON PUMP PLACEMENT .
+________________________________ <PHI TYPE="ID">CM335/9278</PHI>
+<PHI TYPE="DOCTOR">TOMEDANKELL D. FLOWAYLES , JR</PHI> , M.D. <PHI TYPE="ID">FX0</PHI>
+D :
+<PHI TYPE="DATE">02/23/90</PHI>
+Batch :
+<PHI TYPE="ID">9802</PHI>
+Report :
+<PHI TYPE="ID">V9149E9</PHI>
+T :
+<PHI TYPE="DATE">02/28/90</PHI>
+Dictated By :
+<PHI TYPE="DOCTOR">BIRAY A. KINKEDOUETKOOGLE</PHI> , M.D. <PHI TYPE="ID">JB72</PHI>
+cc :
+<PHI TYPE="HOSPITAL">BURD BURGNA HOSPITAL</PHI>
+[ report_end ]

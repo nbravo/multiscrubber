@@ -1,0 +1,24 @@
+--------------------
+MultiScrubber  0.1.2
+--------------------
+University at Albany
+--------------------
+
+0. Verify that you have the following components installed on your system:
+   - tar
+   - unzip
+   - java 6
+   Additionally, if you're not on an Ubuntu or Debian-based Linux distribution,
+   you may need to install the following components manually, as the script will
+   not be able to automatically install them using a package manager:
+   - OCaml (most recent)
+   - build-essential (or whatever the equivalent is for your OS, includes gcc, g++, etc)
+
+1. Run the component setup script.
+   To do this, type: ./install
+
+2. You're ready to go!
+   For simple usage information, run the program via:
+     java -jar MultiScrubber.jar
+   ...and for more detailed usage information, check the README.
+

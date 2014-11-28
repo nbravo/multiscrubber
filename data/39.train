@@ -1,0 +1,28 @@
+<PHI TYPE="ID">262182942</PHI>
+<PHI TYPE="HOSPITAL">BH</PHI>
+<PHI TYPE="ID">2513486</PHI>
+<PHI TYPE="ID">923091</PHI>
+<PHI TYPE="DATE">05/08/2000</PHI> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PHI TYPE="PATIENT">JEM , ON</PHI>
+MRN :
+<PHI TYPE="ID">2513486</PHI>
+Age :
+74y
+REGISTRATION DATE :
+<PHI TYPE="DATE">05/08/2000</PHI> 07:57 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PHI TYPE="PATIENT">JEM , ON</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Bri Health</PHI> on <PHI TYPE="DATE">05/08/2000</PHI> 07:57 PM .
+The patient presented with a chief complaint of IV FLUIDS .
+Following triage , the patient LEFT WITHOUT TREATMENT .
+If you need additional information please call <PHI TYPE="PHONE">442-025-0303</PHI> .
+PCP Name :
+<PHI TYPE="DOCTOR">ACKCA , SLAINEAEE L</PHI>
+Provider Number :
+<PHI TYPE="ID">78369</PHI>
+[ report_end ]

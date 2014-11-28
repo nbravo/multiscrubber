@@ -1,0 +1,64 @@
+<PHI TYPE="ID">938547318</PHI>
+<PHI TYPE="HOSPITAL">NVH</PHI>
+<PHI TYPE="ID">73144509</PHI>
+<PHI TYPE="DATE">6/29/2002</PHI> 12:00:00 AM
+Choreoathetosis
+DIS
+Admission Date :
+<PHI TYPE="DATE">06/29/2002</PHI>
+Report Status :
+Discharge Date :
+<PHI TYPE="DATE">07/04/2002</PHI>
+****** DISCHARGE ORDERS
+<PHI TYPE="PATIENT">TLANDSTREU , SONMYRN</PHI> <PHI TYPE="ID">674-98-72-3B73</PHI>
+Room :
+<PHI TYPE="ID">25Y-975</PHI>
+Service :
+NEU
+DISCHARGE PATIENT ON :
+<PHI TYPE="DATE">Independence Day</PHI> AT 11:30 AM
+CONTINGENT UPON Not Applicable
+WILL D / C ORDER BE USED AS THE D / C
+SUMMARY :
+YES
+Attending :
+<PHI TYPE="DOCTOR">DREPSFEL , MA TERA</PHI> , M.D.
+DISPOSITION :
+Rehabilitation
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN headache COLACE ( DOCUSATE SODIUM ) 100 MG PO BID FOLATE ( FOLIC ACID ) 1 MG PO QD THIAMINE HCL 100 MG PO QD MVI THERAPEUTIC ( THERAPEUTIC MULTIVITAMINS ) 1 TAB PO QD ZYPREXA ( OLANZAPINE ) 5 MG PO QHS Starting Today ( <PHI TYPE="DATE">07/04</PHI> )
+Number of Doses Required ( approximate ) :
+5
+DIET :
+No Restrictions
+Activity - Ambulate with assist
+FOLLOW UP APPOINTMENT ( S ) :
+Follow up with Dr. <PHI TYPE="DOCTOR">Briz</PHI> within 4 weeks , No Known Allergies
+ADMIT DIAGNOSIS :
+movement disorder
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Choreoathetosis
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Staynone
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+Patient is an 80 year old female with a history of dementia , and of a choreoathetotic movement disorder of unclear etiology .
+She has had these problems for approximately 10 years , and is cared for by a family member .
+W / U for Huntington &apos;s , ceruloplasmin , TSH , etc have all been negative in the past .
+Now presents with report of sub-acute worsening of confusion .
+Patient was admitted to neurology service .
+She had a gradual imporvement of her confusion back towards baseline during the hospital stay .
+The major therapeutic change during the hospitalization was the starting of zyprexa to see if as part of its side-effect profile it would decrease the choreoathetotic movement symptoms .
+Infact , this medication was found to cause a significant improvement in her choreoathetotic perioral and arm movements .
+She still has significant myoclonic component in her arms especially with volition , but this med will certainly be continued .
+While essentially what we ARE hoping for in this use of the med is extra-pyramidal side effects , she should be monitored for any excessive or debilitating parkinsonian symptoms such as excessive rigidity .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<PHI TYPE="DOCTOR">LEUNG , LUANME A.</PHI> , M.D. ( <PHI TYPE="ID">RW156</PHI> )
+<PHI TYPE="DATE">07/04/02</PHI> 11:25 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]

@@ -1,0 +1,29 @@
+<PHI TYPE="ID">220536305</PHI>
+<PHI TYPE="HOSPITAL">CMC</PHI>
+<PHI TYPE="ID">82863580</PHI>
+<PHI TYPE="DATE">10/8/1994</PHI> 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+<PHI TYPE="DATE">10/08/1994</PHI>
+Report Status :
+Signed
+Discharge Date :
+<PHI TYPE="DATE">10/18/1994</PHI>
+The patient was scheduled for discharge to rehab .
+It was noted on <PHI TYPE="DATE">10/8/94</PHI> that she had a decreased range of motion in both her knees with flexion to approximately 40 degrees with maximum physical therapy .
+It was decided to postpone her discharge to rehab and take her back to the operating room for a manipulation under anesthesia .
+On <PHI TYPE="DATE">10/9/94</PHI> , she was taken back to the operating room .
+Dictated By :
+<PHI TYPE="DOCTOR">NA BENGSTEN</PHI> , M.D , <PHI TYPE="ID">HM72</PHI>
+Attending :
+<PHI TYPE="DOCTOR">LUPEVICKETTE L. MELENA</PHI> , M.D. <PHI TYPE="ID">YL7 TD803/0252</PHI>
+Batch :
+<PHI TYPE="ID">473</PHI>
+Index No. <PHI TYPE="ID">KRUQ8L9 GVZ</PHI>
+D :
+<PHI TYPE="DATE">10/17/94</PHI>
+T :
+<PHI TYPE="DATE">10/18/94</PHI>
+[ report_end ]

@@ -1,0 +1,51 @@
+<PHI TYPE="ID">213763231</PHI>
+<PHI TYPE="HOSPITAL">CMC</PHI>
+<PHI TYPE="ID">07646518</PHI>
+<PHI TYPE="DATE">10/3/2002</PHI> 12:00:00 AM
+ACUTE MYELOGENOUS LEUKEMIA
+Signed
+DIS
+Admission Date :
+<PHI TYPE="DATE">10/03/2002</PHI>
+Report Status :
+Signed
+Discharge Date :
+<PHI TYPE="DATE">11/03/2002</PHI>
+ADDENDUM TO DISCHARGE SUMMARY :
+Please see prior admission summary for details of entire stay except for <PHI TYPE="DATE">10/31/02</PHI> to <PHI TYPE="DATE">11/03/02</PHI> .
+Patient was admitted to Oncology B service .
+ADMISSION DIAGNOSIS :
+ACUTE MYELOGENOUS LEUKEMIA .
+DISCHARGE DIAGNOSIS :
+ACUTE MYELOGENOUS LEUKEMIA .
+HOSPITAL COURSE :
+<PHI TYPE="DATE">10/30/02</PHI> - <PHI TYPE="DATE">11/03/02</PHI> :
+The patient had been on Vanco , Ceftaz as well as Ambisome secondary to fevers of unknown origin .
+ANC reached greater than 500 on <PHI TYPE="DATE">10/30/02</PHI> and therefore , Vancomycin was discontinued on <PHI TYPE="DATE">10/31/02</PHI> .
+The patient did remain afebrile and the following day Ceftaz was discontinued as well .
+The patient did remain afebrile , was feeling well .
+Patient had followups set up for him with transfusion units on <PHI TYPE="DATE">11/06/02</PHI> as well as Dr. <PHI TYPE="DOCTOR">Charla Titchekote</PHI> on <PHI TYPE="DATE">11/09/02</PHI> for a bone marrow biopsy .
+The patient &apos;s vitals were stable .
+He was afebrile .
+His rash had declined .
+There was no adenopathy .
+His chest was clear , and therefore on <PHI TYPE="DATE">11/03/02</PHI> the patient was discharged with a followup plan .
+In conclusion , this is a 56-year-old man admitted with AML , status post induction therapy with 3 and 7 .
+Cytology was consistent with M2 , AML with normal cytogenetics .
+On day 14 bone marrow biopsy did show hypercellularity .
+On discharge the patient was no longer neutropenic .
+He was transfused one unit of platelets prior to discharge with followup at the DFCI on <PHI TYPE="DATE">11/06</PHI> with a transfusion unit and on <PHI TYPE="DATE">11/09</PHI> with Dr. <PHI TYPE="DOCTOR">Charla B Titchekote</PHI> for additional bone marrow biopsy .
+DISCHARGE MEDICATIONS :
+Clotrimazole by mouth one troche four times per day , Colace 100 mg p.o. b.i.d. , multivitamin 1 tab p.o. q d , Trazodone 50 mg q h.s. , Nexium 20 mg p.o. q d , Tylenol p.r.n. Eucerin p.r.n.
+Dictated By :
+<PHI TYPE="DOCTOR">NA C. STUTLBRENES</PHI> , M.D. <PHI TYPE="ID">ER942</PHI>
+Attending :
+<PHI TYPE="DOCTOR">TICE D. FOUTCHJESC</PHI> , M.D. <PHI TYPE="ID">UU2 FK795/004653</PHI>
+Batch :
+<PHI TYPE="ID">22832</PHI>
+Index No. <PHI TYPE="ID">Y1WYX127C5</PHI>
+D :
+<PHI TYPE="DATE">04/28/03</PHI>
+T :
+<PHI TYPE="DATE">04/29/03</PHI>
+[ report_end ]

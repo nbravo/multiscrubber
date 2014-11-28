@@ -1,0 +1,29 @@
+<PHI TYPE="ID">693008750</PHI>
+<PHI TYPE="HOSPITAL">HLGMC</PHI>
+<PHI TYPE="ID">6001356</PHI>
+<PHI TYPE="ID">014235</PHI>
+<PHI TYPE="DATE">9/18/2001</PHI> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PHI TYPE="PATIENT">HUHTLAND , CIE</PHI>
+MRN :
+<PHI TYPE="ID">6001356</PHI>
+Age :
+82y
+REGISTRATION DATE :
+<PHI TYPE="DATE">09/18/2001</PHI> 10:52 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PHI TYPE="PATIENT">HUHTLAND , CIE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Heaonboburg Linpack Grant Medical Center</PHI> on <PHI TYPE="DATE">09/18/2001</PHI> 10:52 AM .
+The patient presented with a chief complaint of WHEEZES .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">HEAONBOBURG LINPACK GRANT MEDICAL CENTER</PHI> .
+Your patient was admitted under the care of <PHI TYPE="DOCTOR">SAPSCLYSS , LEO R</PHI> with a preliminary diagnosis of PNEUMONIA , .
+If you need additional information please call <PHI TYPE="PHONE">605-304-8547</PHI> .
+PCP Name :
+<PHI TYPE="DOCTOR">SC , JUSONKIM N</PHI>
+Provider Number :
+<PHI TYPE="ID">96078</PHI>
+[ report_end ]

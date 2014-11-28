@@ -1,0 +1,25 @@
+<PHI TYPE="ID">402439112</PHI>
+<PHI TYPE="HOSPITAL">HLGMC</PHI>
+<PHI TYPE="ID">0571009</PHI>
+<PHI TYPE="ID">523915</PHI>
+<PHI TYPE="DATE">9/28/2000</PHI> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PHI TYPE="PATIENT">LONGSWALD , NAER</PHI>
+MRN :
+<PHI TYPE="ID">0571009</PHI>
+Age :
+88y
+REGISTRATION DATE :
+<PHI TYPE="DATE">09/28/2000</PHI> 02:03 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PHI TYPE="PATIENT">LONGSWALD , NAER</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Heaonboburg Linpack Grant Medical Center</PHI> on <PHI TYPE="DATE">09/28/2000</PHI> 02:03 PM .
+The patient presented with a chief complaint of VOMITING .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">HEAONBOBURG LINPACK GRANT MEDICAL CENTER</PHI> .
+Your patient was admitted under the care of <PHI TYPE="DOCTOR">SAP , HU E</PHI> with a preliminary diagnosis of NAUSEA .
+If you need additional information please call <PHI TYPE="PHONE">605-304-8547</PHI> .
+[ report_end ]

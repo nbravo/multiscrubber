@@ -1,0 +1,44 @@
+<PHI TYPE="ID">717532006</PHI>
+<PHI TYPE="HOSPITAL">CMC</PHI>
+<PHI TYPE="ID">94624418</PHI>
+<PHI TYPE="DATE">9/26/1993</PHI> 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+<PHI TYPE="DATE">09/26/1993</PHI>
+Report Status :
+Unsigned
+Discharge Date :
+<PHI TYPE="DATE">10/05/1993</PHI>
+PRINCIPAL DIAGNOSIS :
+CORONARY ARTERY DISEASE .
+HISTORY OF PRESENT ILLNESS :
+The patient has had increasing dyspnea on exertion and chest pain .
+A cardiac catheterization in <PHI TYPE="DATE">07/93</PHI> showed diffuse mid left anterior descending of 90% , 30% D1 and 70% circumflex .
+HOSPITAL COURSE :
+The patient was taken to the operating room and tolerated the procedure well .
+His intensive care unit stay was notable for intensive care unit psychosis which was treated with Haldol and Ativan .
+He slowly resolved and became alert and oriented times three .
+He was ambulating well .
+He had a psychiatry consult who agreed with the management .
+His blood pressure control was somewhat difficult in the intensive care unit .
+He received beta blockers both po and IV .
+This caused him to become bradycardic down to the rate of 40 &apos;s .
+It was felt that he was not a beta blocker candidate postoperatively .
+Therefore , his pressure control will be done with hydralazine and could later be controlled with another agent as his cardiologist sees fit .
+DISPOSITION :
+MEDICATIONS :
+On discharge included his pre-admission medications as well as one aspirin per day and Floricet , 0.1 mg po q day ; hydrazaline , 10 mg po q.i.d.
+Dictated By :
+<PHI TYPE="DOCTOR">DO JOASSCCHIRD</PHI> , M.D. <PHI TYPE="ID">HA14</PHI>
+Attending :
+<PHI TYPE="DOCTOR">RASHANEMAR S. LANCEDUHE</PHI> , M.D. <PHI TYPE="ID">HW8 VE160/3653</PHI>
+Batch :
+<PHI TYPE="ID">5110</PHI>
+Index No. <PHI TYPE="ID">ZKARBMH3X</PHI>
+D :
+<PHI TYPE="DATE">10/04/93</PHI>
+T :
+<PHI TYPE="DATE">10/06/93</PHI>
+[ report_end ]

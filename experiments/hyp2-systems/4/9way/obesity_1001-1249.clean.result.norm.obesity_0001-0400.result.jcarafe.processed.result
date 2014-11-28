@@ -1,0 +1,27 @@
+Word Level Confusion Matrix
+none patient doctor location hospital date     id    phone     age
+273343	0	17	2	8	54	2	5	0	none
+0	0	0	0	0	0	0	0	0	patient
+67	0	4732	0	4	0	0	0	0	doctor
+11	0	4	277	4	0	2	0	0	location
+73	0	26	3	1502	0	0	0	0	hospital
+223	0	1	1	0	8719	0	0	0	date
+8	0	0	0	0	0	1714	0	0	id
+29	0	0	0	0	0	1	107	0	phone
+0	0	0	0	0	0	0	0	1	age
+
+
+X: MACHINE LABEL    Y: GOLD STANDARD LABEL
+
+F-measures for all data
+NONE	:	precision =	0.99849865207449	recall =	0.999678163778065	f-measure =	0.999088059796961
+PATIENT	:	precision =	0	recall =	0	f-measure =	0
+DOCTOR	:	precision =	0.989958158995816	recall =	0.985217572350614	f-measure =	0.987582176771366
+LOCATION	:	precision =	0.978798586572438	recall =	0.929530201342282	f-measure =	0.953528399311532
+HOSPITAL	:	precision =	0.989459815546772	recall =	0.93640897755611	f-measure =	0.962203715566944
+DATE	:	precision =	0.993844750940385	recall =	0.974843470483005	f-measure =	0.984252412936727
+ID	:	precision =	0.997091332169866	recall =	0.995354239256678	f-measure =	0.996222028480093
+PHONE	:	precision =	0.955357142857143	recall =	0.781021897810219	f-measure =	0.859437751004016
+AGE	:	precision =	1	recall =	1	f-measure =	1
+
+

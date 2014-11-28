@@ -1,0 +1,225 @@
+--------------------
+MultiScrubber  0.1.2
+--------------------
+University at Albany
+--------------------
+
+-1. Disclaimer
+ 0. Installation
+ 1. Overview
+ 2. System requirements
+ 3. Running the system
+    a. Easy mode (Assistant)
+    b. Normal operation
+       i.   Preparing input data
+       ii.  Training the base classifiers
+       iii. Training the meta classifier
+       iv.  Annotating documents
+ 4. Detailed system information
+ 5. Changes
+ 6. Known issues
+ 7. Contact the author
+
+--------------------
+-1. Disclaimer
+--------------------
+
+MULTISCRUBBER IS RESEARCH CODE!
+WARNING! SIRENS! BEWARE!
+
+Please use MultiScrubber at your own risk/discretion.
+
+This system uses GPL components and invokes them via the available shell. These underlying base classifiers cannot be disabled from invokation in this release. However, they may be disabled in the "Modes" class and additional classifiers may be incorporated as long as they conform to data format guidelines. Future releases will likely make base classifiers modular and able to be added/removed/modified without recompilation. Please contact the author with any support or licensing questions (see 6. Contact the author).
+
+Please do not distribute MultiScrubber without first contacting the author. 
+
+Please contact us for information about how to cite MultiScrubber.
+
+--------------------
+0. Installation
+--------------------
+
+For information on how to install MultiScrubber, view the INSTALL file.
+
+
+--------------------
+1. Overview
+--------------------
+
+MultiScrubber is an application designed to perform automated de-identification of personal health information (PHI) by combining existing publicly available de-identifiers. These de-identifiers use contrasting approaches to PHI scrubbing, and include Conditional Random Fields, Support Vector Machines, rules, and dictionaries. MultiScrubber combines the results of these de-identifiers to create an overall better performing classifier.
+
+MultiScrubber is developed by the Computational Linguistics and Information Processing Group at the University at Albany.
+
+
+--------------------
+2. System requirements
+--------------------
+
+MultiScrubber is developed and tested on Ubuntu 10.04 (Maverick Meerkat).
+Installation scripts may attempt to install packages with aptitude, or you are using another Linux distribution, may prompt you to install packages via your preferred method.
+
+The recommended environment for MultiScrubber consists of the following:
+- Ubuntu 10.04 (Maverick Meerkat)
+- 64-bit Linux distribution (for training large models)
+- 8-16GB of RAM for training (for very large datasets)
+  - For annotation using included models only, 1-4GB may be sufficient
+
+
+--------------------
+3. Running the system
+--------------------
+
+a. Easy mode (MultiScrubber Assistant)
+======================================
+
+MultiScrubber comes with a simplified front end to enable easier usage of the system.
+
+Within the MultiScrubber package, you should find a directory called "data". Each record to be de-identified should be placed in this directory as a separate file. For example, if there are 100 records, they could be called 1, 2, 3, and so on. If you have no existing human annotated data, this is all you need to begin.
+
+Please note that no records may be added or removed from tha data directory at this time. Preliminary support for adding files later is mostly implemented, but not supported in this release. This will prevent accurate benchmarking of the system in this release, but later evaluation methods will support any work done with this version and will be forward-compatible.
+
+Prior to running the system, please see the data input guidelines (b. Normal usage, i. Preparing your data). The only change is that because the records are individual files, they need not be encapsulated in <TEXT>...</TEXT> tags, since they need no boundary marking.
+
+Simply invoke the MultiScrubber Assistant with the following:
+	./easy.sh
+
+Note: If this script is unavailable, you can directly run it with:
+	java -jar MultiScrubber.jar --easy
+
+The system will annotate all of your available records and then make a backup copy of the annotated records in the data/logs/ directory.
+
+The machine annotated records should be reviewed by human annotators. Once they make any necessary corrections and you are satisfied with the changes, you must append ".train" onto the end of the filename and place it into the data directory. Thus, if you had someone correct the record with the file name "56", the file would be renamed to "56.train". This lets the system know that this record can be used to train the classifiers to improve your performance.
+
+Once you have a minimum of five human annotated records with the ".train" extension, you can invoke the MultiScrubber Assistant again with:
+	./easy.sh
+
+Now, the MultiScrubber Assistant will detect your corrections and begin to train the system. Depending on the number of training records provided, this may take some time. Once training is complete, the MultiScrubber Assistant will use the newly gained knowledge to annotate all other records (those without the ".train" on the end).
+
+You should again have your human annotators review and correct the machine annotated records, repeating this process until you are satisfied with system's results.
+
+
+b. Normal usage
+===============
+
+i. Preparing input data
+
+Due to differences in the underlying base classifer packages, there are a number of requirements for the data being passed to MultiScrubber both for the training stage and for machine annotation. The following is a list of requirements for the data being passed into the system, in no particular order:
+
+Input testing data format requirements:
+ - A document must consist of two or more records, which are encapsulted by: <TEXT>...</TEXT> (not applicable for using the MultiScrubber Assistant)
+    Two or more records are necessary such that those classifiers which require a separate train/test set for cross-evaluation can split the input into those necessary pieces.
+ - Line returns must be Unix/Linux (\n or ASCII code 13), not Windows-formatted
+ - Lines cannot start or end with whitespace
+ - The document must be valid XML. The ampersand character "&" must be escaped to &amp;. The single quote "'" must be escaped as &quot;, etc.
+ - There should be no consecutive single quote characters. The system will automatically convert any occurence of two single quotes ('') to a single double quote character ("). This is due to a requirement by a base classifier.
+
+Input training data format requirements:
+
+- All previously mentioned testing data requirements apply to training data.
+ - Tokens may only have one label assigned to them. That is, no token should have multiple tags occurring in a sequence of text not broken by whitespace.
+    Bad: <PHI TYPE="ID">12345</PHI>(<PHI TYPE="HOSPITAL">MGH</PHI>)
+    Good: <PHI TYPE="ID">12345</PHI> ( <PHI TYPE="HOSPITAL">MGH</PHI> )
+ - PHI tags cannot be nested.
+    (i.e., <PHI TYPE="LOCATION">Albany, <PHI TYPE="LOCATION">NY</PHI></PHI>)
+ - PHI elements must be tagged with the following format: <PHI TYPE="$CATEGORY">...</PHI> where the $CATEGORY variable is one of the following: PERSON, HOSPITAL, LOCATION, DATE, ID, PHONE, or AGE. Note that doctor and patient names are considered as one meta-category, PERSON
+
+Data not conforming to these specifications may be corrected automatically by the system and placed into a file with the ".norm" extension, if necessary.
+
+
+ii. Training the base classifiers
+
+MultiScrubber requires a set of trained base classifiers to function. By default, it includes models generated for our default set of base classifiers trained on several of our own datasets. However, for best performance, it is recommended that you annotate a set of your own records, and train the base classifiers on your annotated data.
+
+The basic command for training a new set of base classifiers is the following:
+	java -jar MultiScrubber.jar --train-base your_annotated_data.xml
+
+This process can, and often should, be iterative, as the system performs better when it includes models trained specifically to your data. If you have 1000 total records to annotate, it may be helpful to use our out-of-the-box models to first machine annotate 100 records, which a human annotator should then correct. You can then train the base classifiers using this new (gold standard) data, which will improve performance.
+
+Once you have done this (and re-trained the meta-classifier, which is described in the next section), you will then run the next 100 records and annotate them. You will then have 200 fully annotated records which you can re-train with. You can repeat this as many times as you wish.
+
+Note that if you are performing this process iteratively, your file, "your_annotated_data.xml" should /always have the same name!/ This will tell the system to override the prior models trained on your earlier data. Otherwise, you will lose performance, as the system will cache one set of models for each time you trained it, as opposed to one set of models for your most recently human corrected set of data.
+
+
+iii. Training the meta classifier
+
+To invoke the meta classifier trainer, issue the following command:
+	java -jar MultiScrubber.jar --train-meta your_second_training_set.xml
+
+At present, MultiScrubber does not support multiple SVM models. Since SVM models can be trained quickly, it is easy to just re-train the SVM model when the model cache is updated. The SVM model is saved as default.svm.model in the model cache.
+
+NOTE: Any time the model cache is updated by invoking --train-base, the meta classifier (SVM) should always be retrained. Otherwise, attributes will be inaccurate and results will be invalid.
+
+
+iv. Annotating documents
+
+The system comes ready to annotate out of the box. However, if you have your own training data, please be sure to train the base and meta classifiers prior to annotating.
+
+To invoke the annotator, prepare an un-annotated test XML file which conforms to MultiScrubber input specifications (see i. Preparing input data) and run:
+	java -jar MultiScrubber.jar --annotate your_test_data.xml your_results.xml
+
+In this case, your_results.xml would contain the system output upon completion.
+
+
+--------------------
+6. Detailed system information
+--------------------
+
+Coming soon. Please contact the developer (Ken) with any particular questions you may have in the interim. :)
+
+
+--------------------
+5. Changes
+--------------------
+
+0.1.2
+- Update to improve MultiScrubber Assistant evaluation code.
+- Added option (--quick-eval) to generate results from last system run.
+
+0.1.1
+- Made small tweak to how MultiScrubber handles evaluation to increase compatibility with outside pipeline.
+
+0.1.0
+- Added feature to remove unknown and unsupported PHI tags from training data (such as <PHI TYPE="PROFESSION">...</PHI>).
+- Fixed bug that occured in a rare circumstance involving resolving nested tags and converting tag formats.
+
+0.0.5
+- Added support for fixing (99%) of cases of unescaped characters such as &, <, > in XML. If possible, please fix your data! However, MultiScrubber will try to do it automatically.
+- Revised README/INSTALL for readability.
+- Bug fixes for evaluation mode
+- Added feature to MultiScrubber Assistant to generate results at the end of each run
+
+0.0.4
+- Added evaluation mode for SHARP sites (--evaluate)
+
+0.0.3
+- Fix to convert doctor/patient tags to person tags.
+- Now returns <PHI TYPE="PERSON">...</PHI> instead of <PHI TYPE="DOCTOR">...</PHI> for all human names.
+
+0.0.2
+- Added MultiScrubber Assistant (easy mode)
+- Assorted bug fixes.
+
+0.0.1
+- Initial release.
+
+--------------------
+6. Known issues
+--------------------
+
+a. Not all session files are in the session directory. After running, these can be safely removed if desired.
+b. Experimental meta-classifier features are disabled in this release.
+c. Coefficient and gamma for SVM cannot be adjusted without recompilation.
+d. Tagged entities not padded with whitespace, but where whitespace is immediately inside of the tag, may cause --train-meta and --annotate to fail.
+   Ex: Dr.<PHI TYPE="DOCTOR"> Smith</PHI>
+   ..should be: Dr. <PHI TYPE="DOCTOR">Smith</PHI>
+
+--------------------
+7. Contact the author
+--------------------
+
+You can contact the primary developer,
+Ken Burford, at the following address:
+
+ken.burford@gmail.com
+
+
