@@ -1,5 +1,5 @@
-serializeTo = modelCache/training_set_first_half.xml.stanford.ser.gz
-trainFile = training_set_first_half.xml.tsv
+serializeTo = modelCache/training_set_all.xml.stanford.ser.gz
+trainFile = training_set_all.xml.tsv
 
 # structure of your training file; this tells the classifier that
 # the word is in column 0 and the correct answer is in column 1
